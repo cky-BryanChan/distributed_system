@@ -1,0 +1,5 @@
+J8Server/
+bin/
+src/app_kvEcs/ECS_Server/logs/
+src/app_kvServer/logs/
+
